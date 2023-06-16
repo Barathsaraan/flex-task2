@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+#about{
+	margin:10px;
+}
+.container{
+	margin:20px;
+}
+.row{
+	display:flex;
+}
+.col1, .col2{
+		width:50%;
+}
+.col1{
+	font-size:160%;
+	
+}
+.col2{
+	font-size:130%;
+}
+ul{
+	list-style-image:url("Images/tick.png");
+	list-style-position:inside;
+}
+
